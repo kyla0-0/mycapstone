@@ -4,18 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grem Sign Up</title>
+    <link rel="stylesheet" href="style.css">
     <style>
-        body {background-color: #97a042;}
-        label    {color: #1c1e1b ;}
+        img {border: 4px solid rgb(241, 204, 95);}
     </style>
 </head>
 <body>
     <form action="results.html" method="get">
         <h1>Grem Sign Up Page!!!!!</h1>
-        <h2>Grems are what Gigi Murin's fans are called!</h2>
+        <h2>Grems are Gigi Murin's loyal fans!</h2>
+        <!--Link-->
+        <a href="results.html">Click here to learn about Gigi Murin!</a>
+
         <h3>This is a grem ↓</h3>
         <img src="images/grem.png" width="250"/>
 
+        <!--Radio-->
         <p>Do you want to become a grem?</p>
         <label for="yep">Yes</label>
         <input type="radio" name="agreement" value="yep" id="yep">
@@ -27,22 +31,26 @@
         <input type="radio" name="agreement" value="grem" id="grem">
         <br>
 
+        <!--Select-->
         <br>
         <label for="selection">Choose a word to live by?</label>
         <select name="selection" id="selection">
-            <option value="regeneration">Grem</option>
+            <option value="grem">Grem</option>
             <option value="silly">Silly</option>
             <option value="redemption">Regremption</option>
             <option value="green">Green</option>
-            <option value="blue">Blue</option>
+            <option value="love">Love</option>
         </select>
         <br>
 
+        <!--Range-->
         <p>What is your mindset today?</p>
         🙀<input type="range" name="slider">🐺
         <br><br>
-        <img src="images/grems.jpeg" width="250"/>
+        <img src="images/gmPull.gif" width="200"/>
         <br><br>
+
+        <!--Number-->
         <label for="money">Sacrifice a monetary amount?</label>
         <input type="number" name="money" id="money" placeholder="$ Give us money! $">
         <br>
@@ -51,6 +59,6 @@
         <input type="submit" value="Submit">
     </form>
     <br>
-    <img src="images/gmPull.gif" width="200"/>
+    <img src="images/grems.jpeg" width="250"/>
 </body>
 </html>

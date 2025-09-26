@@ -1,0 +1,35 @@
+body {
+  background-color: #b9c172;
+}
+h1 {
+  color: rgb(247, 138, 30);
+  font-family: 'Trebuchet MS';
+}
+h2 {
+    color: rgb(242, 234, 226);
+    font-family: 'Trebuchet MS';
+}
+h3 {
+  color: rgb(89, 64, 31);
+  font-family: 'Trebuchet MS';
+}
+p {
+  color: rgb(89, 64, 31);
+  font-family: 'Trebuchet MS';
+}
+label {
+    color: rgb(89, 64, 31);
+    font-family: 'Trebuchet MS';
+}
+blockquote {
+    color: rgb(89, 64, 31);
+    font-family: 'Trebuchet MS';
+}
+li {
+    color: rgb(89, 64, 31);
+    font-family: 'Trebuchet MS';
+}
+a {
+    color: rgb(230, 90, 25);
+    font-family: 'Trebuchet MS';
+}
