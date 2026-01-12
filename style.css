@@ -1,0 +1,23 @@
+.strikethrough {
+            text-decoration: line-through;
+        }
+
+body {
+    background-color: rgb(222, 241, 238);
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    color: aliceblue;
+    background-color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+}
