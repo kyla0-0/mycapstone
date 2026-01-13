@@ -1,0 +1,38 @@
+.underline {
+        text-decoration: underline;
+        }
+
+.fontFam {
+    font-family: 'Trebuchet MS';
+}
+
+body {
+    background-color: rgb(206, 221, 239);
+}
+
+p {
+    color: rgb(156, 52, 37);
+}
+
+ol {
+    color: rgb(73, 65, 88);
+}
+
+form {
+    color: rgb(73, 65, 88);
+}
+
+h1 {
+    color: aliceblue;
+    background-color: rgb(240, 77, 54);
+    font-family: Calibri;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(81, 136, 183);
+}
+
+h3 {
+    color: rgb(73, 65, 88);
+}
